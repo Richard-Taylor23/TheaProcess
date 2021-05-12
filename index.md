@@ -30,6 +30,9 @@ There are 2 pens to use, a Red (Novorapid) one which is used for Breakfast, Lunc
 ## What is the sensor?
 The sensor is on the underside of one of Thea's arms and can be bonked with her phone to give a blood sugar level via her interstitial fluid. Get her phone and open the only app on her main page, then hold the bottom half of her phone over the sensor. It will beep twice and give you a level.
 
+## What is the blood sugar machine?
+This is the small black machine that we use to get blood sugar readings and work out Novorapid doses. It uses a single use strip that the blood goes on to work this out.
+
 ## How do I do a finger prick test?
 1. Check if there is an available lancet by looking at the top number. If it is on 1 then replace the drum.
 2. Flick the switch forward and back so the number changes.
