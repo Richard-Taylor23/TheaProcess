@@ -17,3 +17,9 @@
 - ~19:00. Bonk sensor.
 - injection blue (Lantus) pen.
 - 25g of carbs or less. No wait to eat.
+
+## How to do a finger prick
+
+## How to put the tip on the pen
+
+## How to change the finger prick drum
