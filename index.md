@@ -21,6 +21,10 @@
 - injection blue (Lantus) pen.
 - 25g of carbs or less. No wait to eat.
 
+## What dosage gets used?
+- Supper is always 4 units of Lantus.
+- The 3 other meals need to be worked out based on carbs and exercise.
+
 ## What is a finger pricker?
 The finger pricker is used to draw blood from a finger. It contains a drum of 6 lancets and a fresh one should be used each time. You can click through the lancets by flicking the switch backwards and forwards. There is a depth setting at the bottom that should be at 2.5. 
 
@@ -46,12 +50,26 @@ This is the small black machine that we use to get blood sugar readings and work
 10. If it gives reading add the carbs (if required).
 
 ## How do I put the tip on the pen?
+This is the same for both pens and a fresh one needs to be used each time.
+
 1. Peel the strip off
 2. Screw onto the top of the pen until secure.
 3. Unscrew the clear cover (Keep this).
 4. pull the small green cap off 
 5. Twist the pen setting around by 2 and make sure it squirts out. If it doesn't then try again or repalce the tip.
 6. It's now ready to use.
+
+## How do I give an injection?
+1. Set the doe on the bottom of the pen.
+2. find an injection site. We usually do bum cheek for breakfast and supper, then alternate legs for lunch and tea.
+3. Quickly push it all the way in.
+4. Depress the button and count to 10.
+5. Quickly remove the pen.
+
+## How do I remove the needle?
+1. Screw the clear cover back on.
+2. Unscrew it again with the needle inside.
+3. Put it in the sharp bin
 
 ## How do I change the finger prick drum?
 1. Gently pull the end off the finger pricker.
