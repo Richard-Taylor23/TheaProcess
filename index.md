@@ -45,8 +45,13 @@ This is the small black machine that we use to get blood sugar readings and work
 9. If it gives an error, start again.
 10. If it gives reading add the carbs (if required).
 
-
 ## How do I put the tip on the pen?
+1. Peel the strip off
+2. Screw onto the top of the pen until secure.
+3. Unscrew the clear cover (Keep this).
+4. pull the small green cap off 
+5. Twist the pen setting around by 2 and make sure it squirts out. If it doesn't then try again or repalce the tip.
+6. It's now ready to use.
 
 ## How do I change the finger prick drum?
 1. Gently pull the end off the finger pricker.
