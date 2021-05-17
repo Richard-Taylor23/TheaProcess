@@ -1,25 +1,25 @@
 ## Routine
 #### Breakfast
-- when she gets up bonk her sensor
-- Any amount of carbs as long as they are counted. She needs to eat them all.
-- ~7:45. Finger prick and add carbs / exercise. 
-- 15 minutes later injection red (Novorapid) pen
+- when she gets up bonk her sensor.
+- ~7:45. Finger prick and add carbs / exercise.
+- Any amount of carbs as long as they are counted. She needs to eat them all. 
+- Injection with Red (Novorapid) pen. Wait 15 minutes before eating.
 #### Snack
-- ~10:00 to 10:30. No more than 15g of carbs
+- ~10:00 to 10:30. No more than 15g of carbs.
 #### Lunch
 - ~12:00. Bonk sensor.
 - Any amount of carbs as long as they are counted. She needs to eat them all.
-- Finger prick and add carbs / exercise
-- injection red (Novorapid) pen. Wait 5 minutes before eating
+- Finger prick and add carbs / exercise.
+- injection with red (Novorapid) pen. Wait 5 minutes before eating.
 #### Tea
 - ~17:00. Bonk sensor.
 - Any amount of carbs as long as they are counted. She needs to eat them all.
-- Finger prick and add carbs
-- injection red (Novorapid) pen. Wait 5 minutes before eating
+- Finger prick and add carbs.
+- Injection with Red (Novorapid) pen. Wait 5 minutes before eating.
 #### Supper
 - ~19:00. Bonk sensor.
-- injection blue (Lantus) pen.
-- 25g of carbs or less. No wait to eat.
+- Up to 25g of carbs.
+- Injection with Blue (Lantus) pen. No wait to eat.
 
 ## What dosage gets used?
 - Supper is always 4 units of Lantus.
