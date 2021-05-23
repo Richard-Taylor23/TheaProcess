@@ -62,7 +62,7 @@ This is the same for both pens and a fresh one needs to be used each time.
 6. It's now ready to use.
 
 ## How do I give an injection?
-1. Set the doe on the bottom of the pen.
+1. Set the dose on the bottom of the pen.
 2. find an injection site. We usually do bum cheek for breakfast and supper, then alternate legs for lunch and tea.
 3. Quickly push it all the way in.
 4. Depress the button and count to 10.
