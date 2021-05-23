@@ -3,14 +3,16 @@
 - when she gets up bonk her sensor.
 - ~7:45. Finger prick and add carbs / exercise.
 - Any amount of carbs as long as they are counted. She needs to eat them all. 
-- Injection with Red (Novorapid) pen. Wait 15 minutes before eating.
-#### Snack
+- In jection with Red (Novorapid) pen. Wait 15 minutes before eating.
+#### Morning snack
 - ~10:00 to 10:30. No more than 15g of carbs.
 #### Lunch
 - ~12:00. Bonk sensor.
 - Any amount of carbs as long as they are counted. She needs to eat them all.
 - Finger prick and add carbs / exercise.
 - injection with red (Novorapid) pen. Wait 5 minutes before eating.
+#### Aftenoon snack
+- 15:00 to 15:30. No more than 15g of carbs.
 #### Tea
 - ~17:00. Bonk sensor.
 - Any amount of carbs as long as they are counted. She needs to eat them all.
