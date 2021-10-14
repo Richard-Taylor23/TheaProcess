@@ -1,7 +1,7 @@
 ## Routine
 #### Breakfast
 - when she gets up bonk her sensor.
-- ~7:45. Finger prick and add carbs / exercise.
+- ~7:30. add carbs / exercise to Diabetes:M (on phone).
 - Any amount of carbs as long as they are counted. She needs to eat them all. 
 - In jection with Red (Novorapid) pen. Wait 15 minutes before eating.
 #### Morning snack
@@ -9,14 +9,14 @@
 #### Lunch
 - ~12:00. Bonk sensor.
 - Any amount of carbs as long as they are counted. She needs to eat them all.
-- Finger prick and add carbs / exercise.
+- add carbs / exercise to Diabetes:M (on phone).
 - injection with red (Novorapid) pen. Wait 5 minutes before eating.
 #### Aftenoon snack
 - 15:00 to 15:30. No more than 15g of carbs.
 #### Tea
 - ~17:00. Bonk sensor.
 - Any amount of carbs as long as they are counted. She needs to eat them all.
-- Finger prick and add carbs.
+- add carbs / exercise to Diabetes:M (on phone).
 - Injection with Red (Novorapid) pen. Wait 5 minutes before eating.
 #### Supper
 - ~19:00. Bonk sensor.
@@ -24,8 +24,17 @@
 - Injection with Blue (Lantus) pen. No wait to eat.
 
 ## What dosage gets used?
-- Supper is always 4 units of Lantus.
+- Supper is always 6 units of Lantus.
 - The 3 other meals need to be worked out based on carbs and exercise.
+
+## What is the Diabetes:M app?
+- It's an app that replaces the small black machine for carb counting.
+- You need to bonk her sensor first.
+- Open the Diabetes:M app on her phone.
+- Select 'Bolus Advisor'and enter glucose level, direction if not straight, carb count, any exercise.
+- Select the save button (looks like a floppy disk). You can check the insulin setting now.
+- Select the save button again.
+- It will then show in the log book if you need the insulin setting again.
 
 ## What is a finger pricker?
 The finger pricker is used to draw blood from a finger. It contains a drum of 6 lancets and a fresh one should be used each time. You can click through the lancets by flicking the switch backwards and forwards. There is a depth setting at the bottom that should be at 2.5. 
@@ -37,7 +46,7 @@ There are 2 pens to use, a Red (Novorapid) one which is used for Breakfast, Lunc
 The sensor is on the underside of one of Thea's arms and can be bonked with her phone to give a blood sugar level via her interstitial fluid. Get her phone and open the only app on her main page, then hold the bottom half of her phone over the sensor. It will beep twice and give you a level.
 
 ## What is the blood sugar machine?
-This is the small black machine that we use to get blood sugar readings and work out Novorapid doses. It uses a single use strip that the blood goes on to work this out.
+This is the small black machine that we use to get blood sugar readings if we need them although generally we use the sensor and app. It uses a single use strip that the blood goes on to work this out.
 
 ## How do I do a finger prick test?
 1. Check if there is an available lancet by looking at the top number. If it is on 1 then replace the drum.
