@@ -24,7 +24,7 @@
 - Injection with Blue (Lantus) pen. No wait to eat.
 
 ## What dosage gets used?
-- Supper is always 6 units of Lantus.
+- Supper is always 8 units of Lantus.
 - The 3 other meals need to be worked out based on carbs and exercise.
 
 ## What is the Diabetes:M app?
